@@ -1,4 +1,6 @@
 name: Build sources
+# build 1
+
 on:
   push:
     paths:
